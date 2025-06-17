@@ -34,9 +34,6 @@ This repository contains weekly hands-on tasks as part of the **Cognizant Digita
 
 ---
 
-## 🔗 Repository Structure Example
-
-<pre> ``` 4991296-dn4.0-java-fse/ ├── Week1-DesignPattern-DSA/ │ ├── DesignPatterns/ │ │ └── Singleton.java │ └── DSA/ │ └── ArrayProblems.java ├── Week2-PLSQL-UnitTesting/ ├── README.md ``` </pre>
 
 ---
 
