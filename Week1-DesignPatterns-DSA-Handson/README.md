@@ -1,50 +1,46 @@
-# Week 1: Design Patterns – Java FSE Deep Skilling
+# Cognizant DN 4.0 – Java FSE Deep Skilling
 
-This folder contains Java implementations of core object-oriented design patterns as part of the Cognizant DN 4.0 Deep Skilling program – Java FSE Track.
-
----
-
-## ✅ Patterns Covered
-
-### 1. Singleton Pattern
-
-- Ensures that a class has only one instance and provides a global point of access to it.
-- **Use case:** Logging utility where a single logger is shared across the application.
-
-📁 Folder: `Exercise1-SingletonPattern`  
-📂 Files:
-- `Logger.java`: Implements Singleton logic
-- `Main.java`: Test class
-- `output-screenshot.png`: Execution output
-
-#### 🔽 Output:
-![Singleton Output](./Exercise1-Singleton pattern/Output-screenshot.png)
+This repository contains all mandatory hands-on tasks for **Week 1** of the Digital Nurture program – covering Design Patterns and DSA.
 
 ---
 
-### 2. Factory Method Pattern
+## ✅ Exercise 1 – Singleton Pattern
 
-- Defines an interface for creating an object, but lets subclasses decide which class to instantiate.
-- **Use case:** A document management system creating different types of documents like Word, PDF, Excel.
+📁 Folder: `Exercise1-Singleton pattern`  
+Implements the Singleton design pattern using a `Logger` class.
+
+🔸 Ensures only one instance of `Logger` is used across the application.
+
+📸 **Output:**
+![Singleton Output](./Week1-DesignPatterns-DSA-Handson/DesignPatterns-Handson/Exercise1-Singleton%20pattern/Output%20screenshot.png)
+
+---
+
+## ✅ Exercise 2 – Factory Method Pattern
 
 📁 Folder: `Exercise2-Factory pattern`  
-📂 Files:
-- `Document.java`: Interface
-- `WordDocument.java`, `PdfDocument.java`, `ExcelDocument.java`: Concrete implementations
-- `DocumentFactory.java`: Abstract factory
-- Concrete factory classes
-- `Main.java`: Demonstrates pattern usage
-- `output-screenshot.png`: Execution output
+Implements the Factory Method pattern to create various document types: Word, PDF, and Excel.
 
-#### 🔽 Output:
-![Factory Method Output](./Exercise2-Factory pattern/output.png)
+🔸 Demonstrates abstract factories and dynamic object creation.
 
----
+📸 **Output:**
+![Factory Output](./Week1-DesignPatterns-DSA-Handson/DesignPatterns-Handson/Exercise2-Factory%20pattern/output.png)
 
-## 📌 Notes
-- Each pattern includes its Java source code and terminal output.
-- Demonstrates clear understanding of object-oriented design principles and clean code practices.
+
+
 
 ---
 
-Feel free to explore the folders for code, outputs, and usage!
+✅ Screenshots and code have been committed pattern-wise. Each folder contains:
+- `.java` source files
+- `output.png` or `Output screenshot.png`
+- Test class to demonstrate pattern working
+
+---
+
+## ✨ Author  
+Shaik Sharmila  
+Superset ID: 4991296 | KL University  
+📧 2200030218cseh@gmail.com
+
+
