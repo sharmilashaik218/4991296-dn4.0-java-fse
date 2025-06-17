@@ -11,8 +11,7 @@ Implements the Singleton design pattern using a `Logger` class.
 
 🔸 Ensures only one instance of `Logger` is used across the application.
 
-📸 **Output:**
-![Singleton Output](./Week1-DesignPatterns-DSA-Handson/DesignPatterns-Handson/Exercise1-Singleton%20pattern/Output%20screenshot.png)
+
 
 ---
 
@@ -24,9 +23,9 @@ Implements the Factory Method pattern to create various document types: Word, PD
 🔸 Demonstrates abstract factories and dynamic object creation.
 
 📸 **Output:**
+![Singleton Output](./Week1-DesignPatterns-DSA-Handson/DesignPatterns-Handson/Exercise1-Singleton%20pattern/Output%20screenshot.png)
+📸 **Output:**
 ![Factory Output](./Week1-DesignPatterns-DSA-Handson/DesignPatterns-Handson/Exercise2-Factory%20pattern/output.png)
-
-
 
 
 ---
