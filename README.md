@@ -13,8 +13,8 @@ This repository contains weekly hands-on tasks as part of the **Cognizant Digita
 
 | Week | Topics Covered                               | Status        |
 |------|-----------------------------------------------|----------------|
-| 1    | Design Pattern, Data Structures & Algorithms  | 🔄 In Progress |
-| 2    | PL/SQL, Unit Testing                          | ⬜ Not Started |
+| 1    | Design Pattern, Data Structures & Algorithms  | ✅ Completed    |
+| 2    | PL/SQL, Unit Testing                          | 🔄 In Progress |
 | 3    | Spring Core, Maven, JPA                       | ⬜ Not Started |
 | 4    | Spring REST                                   | ⬜ Not Started |
 | 5    | Microservices                                 | ⬜ Not Started |
