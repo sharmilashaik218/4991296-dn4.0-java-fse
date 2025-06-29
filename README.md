@@ -13,13 +13,13 @@ This repository contains weekly hands-on tasks as part of the **Cognizant Digita
 
 | Week | Topics Covered                               | Status        |
 |------|-----------------------------------------------|----------------|
-| 1    | Design Pattern, Data Structures & Algorithms  | ✅ Completed    |
-| 2    | PL/SQL, Unit Testing                          | 🔄 In Progress |
-| 3    | Spring Core, Maven, JPA                       | ⬜ Not Started |
+| 1    | Design Pattern, Data Structures & Algorithms  | ✅ Completed   |
+| 2    | PL/SQL, Unit Testing                          | ✅Completed    |
+| 3    | Spring Core, Maven, JPA                       | 🔄 In Progress |
 | 4    | Spring REST                                   | ⬜ Not Started |
 | 5    | Microservices                                 | ⬜ Not Started |
-| 6    | React                                          | ⬜ Not Started |
-| 7    | React (Advanced)                               | ⬜ Not Started |
+| 6    | React                                         | ⬜ Not Started |
+| 7    | React (Advanced)                              | ⬜ Not Started |
 | 8    | Git, CI/CD, DevOps, Docker, GenAI             | ⬜ Not Started |
 
 ---
