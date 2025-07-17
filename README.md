@@ -17,8 +17,8 @@ This repository contains weekly hands-on tasks as part of the **Cognizant Digita
 | 2    | PL/SQL, Unit Testing                          | ✅Completed    |
 | 3    | Spring Core, Maven, JPA                       | ✅Completed   |
 | 4    | Spring REST                                   | ✅Completed    |
-| 5    | Microservices                                 |🔄 In Progress  | 
-| 6    | React                                         | ⬜ Not Started |
+| 5    | Microservices                                 | ✅Completed    | 
+| 6    | React                                         | 🔄 In Progress |
 | 7    | React (Advanced)                              | ⬜ Not Started |
 | 8    | Git, CI/CD, DevOps, Docker, GenAI             | ⬜ Not Started |
 
