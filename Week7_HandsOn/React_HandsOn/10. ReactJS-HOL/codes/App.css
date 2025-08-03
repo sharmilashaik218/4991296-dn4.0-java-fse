@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 20px;
+  background-color: #f8f8f8;
+}
+
+img {
+  border-radius: 8px;
+}
