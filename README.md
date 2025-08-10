@@ -20,7 +20,7 @@ This repository contains weekly hands-on tasks as part of the **Cognizant Digita
 | 5    | Microservices                                 | ✅Completed    | 
 | 6    | React                                         | ✅Completed|
 | 7    | React (Advanced)                              |✅Completed  |
-| 8    | Git, CI/CD, DevOps, Docker, GenAI             | 🔄 In Progress |
+| 8    | Git, CI/CD, DevOps, Docker, GenAI             | ✅Completed  |
 
 ---
 
@@ -38,5 +38,6 @@ This repository contains weekly hands-on tasks as part of the **Cognizant Digita
 ---
 
 Feel free to fork or explore the repository to track my learning journey.
+
 
 
