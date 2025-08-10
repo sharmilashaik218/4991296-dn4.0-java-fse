@@ -19,8 +19,8 @@ This repository contains weekly hands-on tasks as part of the **Cognizant Digita
 | 4    | Spring REST                                   | ✅Completed    |
 | 5    | Microservices                                 | ✅Completed    | 
 | 6    | React                                         | ✅Completed|
-| 7    | React (Advanced)                              |🔄 In Progress  |
-| 8    | Git, CI/CD, DevOps, Docker, GenAI             | ⬜ Not Started |
+| 7    | React (Advanced)                              |✅Completed  |
+| 8    | Git, CI/CD, DevOps, Docker, GenAI             | 🔄 In Progress |
 
 ---
 
@@ -38,4 +38,5 @@ This repository contains weekly hands-on tasks as part of the **Cognizant Digita
 ---
 
 Feel free to fork or explore the repository to track my learning journey.
+
 
